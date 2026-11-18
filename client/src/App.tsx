@@ -54,9 +54,9 @@ function App() {
   const [inStockOnly, setInStockOnly] = useState(false);
 
   // Scroll to Top button visibility
-const [showScrollTop, setShowScrollTop] = useState(false);
+  const [showScrollTop, setShowScrollTop] = useState(false);
 
-useEffect(() => {
+  useEffect(() => {
     const handleScroll = () => {
       setShowScrollTop(window.scrollY > 300);
     };
@@ -71,7 +71,7 @@ useEffect(() => {
     };
   }, []);
 
-// Scroll smoothly to the top
+  // Scroll smoothly to the top
   const scrollToTop = () => {
     window.scrollTo({
       top: 0,
@@ -243,7 +243,7 @@ useEffect(() => {
           }}
         >
           <img
-            src="/favicon1.png"
+            src="/favicon.png"
             alt="ShopSphere Logo"
             className="logo-icon"
           />
@@ -371,7 +371,7 @@ useEffect(() => {
               <span className="user-greeting">
                 Hi, {currentUser.name}
               </span>
-            
+
               <button
                 type="button"
                 className={currentPage === "orders" ? "active" : ""}
@@ -539,7 +539,7 @@ useEffect(() => {
 
               <div className="hero-decoration">
                 <div className="hero-circle">
-                  <span><img src="/favicon3.png" alt="ShopSphere Logo"/></span>
+                  <span><img src="/favicon.png" alt="ShopSphere Logo" /></span>
                 </div>
 
                 <div className="floating-tag">
@@ -779,7 +779,7 @@ useEffect(() => {
             ↑
           </button>
         )}
-      
+
     </div>
   );
 }
