@@ -1,0 +1,839 @@
+{
+  "generatedAt": "2026-11-16T09:14:08.444Z",
+  "mode": "visual-preview",
+  "totalProducts": 78,
+  "matchedCount": 30,
+  "skippedCount": 48,
+  "assignments": [
+    {
+      "mongoId": "6adb051eff3ec77665431e5e",
+      "productName": "Wireless Headphones",
+      "category": "Electronics",
+      "datasetTitle": "NOISE",
+      "datasetCategory": "Electronics",
+      "datasetSubcategory": "headphones",
+      "mainImage": "/products-dataset/wireless-headphones-431e5e/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/wireless-headphones-431e5e/image-2.jpg",
+        "/products-dataset/wireless-headphones-431e5e/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/wireless-headphones-431e5e/image-1.jpg",
+        "/dataset-image-preview-assets/wireless-headphones-431e5e/image-2.jpg",
+        "/dataset-image-preview-assets/wireless-headphones-431e5e/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6adb051eff3ec77665431e60",
+      "productName": "Casual Sneakers",
+      "category": "Fashion",
+      "datasetTitle": "Skechers",
+      "datasetCategory": "Footwear",
+      "datasetSubcategory": "casual-shoes",
+      "mainImage": "/products-dataset/casual-sneakers-431e60/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/casual-sneakers-431e60/image-2.jpg",
+        "/products-dataset/casual-sneakers-431e60/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/casual-sneakers-431e60/image-1.jpg",
+        "/dataset-image-preview-assets/casual-sneakers-431e60/image-2.jpg",
+        "/dataset-image-preview-assets/casual-sneakers-431e60/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6adb051eff3ec77665431e61",
+      "productName": "Travel Backpack",
+      "category": "Accessories",
+      "datasetTitle": "Lino Perros",
+      "datasetCategory": "BagsAndWallets",
+      "datasetSubcategory": "backpacks",
+      "mainImage": "/products-dataset/travel-backpack-431e61/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/travel-backpack-431e61/image-2.jpg",
+        "/products-dataset/travel-backpack-431e61/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/travel-backpack-431e61/image-1.jpg",
+        "/dataset-image-preview-assets/travel-backpack-431e61/image-2.jpg",
+        "/dataset-image-preview-assets/travel-backpack-431e61/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6adb051eff3ec77665431e63",
+      "productName": "Classic T-Shirt",
+      "category": "Fashion",
+      "datasetTitle": "ether",
+      "datasetCategory": "UnisexClothing",
+      "datasetSubcategory": "tshirts",
+      "mainImage": "/products-dataset/classic-t-shirt-431e63/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/classic-t-shirt-431e63/image-2.jpg",
+        "/products-dataset/classic-t-shirt-431e63/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/classic-t-shirt-431e63/image-1.jpg",
+        "/dataset-image-preview-assets/classic-t-shirt-431e63/image-2.jpg",
+        "/dataset-image-preview-assets/classic-t-shirt-431e63/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6ae49aa289cfd1db3c99deb4",
+      "productName": "Earbuds",
+      "category": "Electronics",
+      "datasetTitle": "BLAUPUNKT",
+      "datasetCategory": "Electronics",
+      "datasetSubcategory": "headphones",
+      "mainImage": "/products-dataset/earbuds-99deb4/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/earbuds-99deb4/image-2.jpg",
+        "/products-dataset/earbuds-99deb4/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/earbuds-99deb4/image-1.jpg",
+        "/dataset-image-preview-assets/earbuds-99deb4/image-2.jpg",
+        "/dataset-image-preview-assets/earbuds-99deb4/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b8783",
+      "productName": "Wireless Bluetooth Headphones",
+      "category": "Electronics",
+      "datasetTitle": "CrossBeats",
+      "datasetCategory": "Electronics",
+      "datasetSubcategory": "headphones",
+      "mainImage": "/products-dataset/wireless-bluetooth-headphones-3b8783/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/wireless-bluetooth-headphones-3b8783/image-2.jpg",
+        "/products-dataset/wireless-bluetooth-headphones-3b8783/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/wireless-bluetooth-headphones-3b8783/image-1.jpg",
+        "/dataset-image-preview-assets/wireless-bluetooth-headphones-3b8783/image-2.jpg",
+        "/dataset-image-preview-assets/wireless-bluetooth-headphones-3b8783/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b878b",
+      "productName": "Laptop Backpack",
+      "category": "Electronics",
+      "datasetTitle": "Tommy Hilfiger",
+      "datasetCategory": "BagsAndWallets",
+      "datasetSubcategory": "backpacks",
+      "mainImage": "/products-dataset/laptop-backpack-3b878b/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/laptop-backpack-3b878b/image-2.jpg",
+        "/products-dataset/laptop-backpack-3b878b/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/laptop-backpack-3b878b/image-1.jpg",
+        "/dataset-image-preview-assets/laptop-backpack-3b878b/image-2.jpg",
+        "/dataset-image-preview-assets/laptop-backpack-3b878b/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b878c",
+      "productName": "Classic Cotton T-Shirt",
+      "category": "Fashion",
+      "datasetTitle": "Mast & Harbour",
+      "datasetCategory": "UnisexClothing",
+      "datasetSubcategory": "tshirts",
+      "mainImage": "/products-dataset/classic-cotton-t-shirt-3b878c/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/classic-cotton-t-shirt-3b878c/image-2.jpg",
+        "/products-dataset/classic-cotton-t-shirt-3b878c/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/classic-cotton-t-shirt-3b878c/image-1.jpg",
+        "/dataset-image-preview-assets/classic-cotton-t-shirt-3b878c/image-2.jpg",
+        "/dataset-image-preview-assets/classic-cotton-t-shirt-3b878c/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b8790",
+      "productName": "Women's Casual Dress",
+      "category": "Fashion",
+      "datasetTitle": "Curvy Clan",
+      "datasetCategory": "WomensClothing",
+      "datasetSubcategory": "dresses",
+      "mainImage": "/products-dataset/women-s-casual-dress-3b8790/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/women-s-casual-dress-3b8790/image-2.jpg",
+        "/products-dataset/women-s-casual-dress-3b8790/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/women-s-casual-dress-3b8790/image-1.jpg",
+        "/dataset-image-preview-assets/women-s-casual-dress-3b8790/image-2.jpg",
+        "/dataset-image-preview-assets/women-s-casual-dress-3b8790/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b878f",
+      "productName": "Men's Running Shoes",
+      "category": "Fashion",
+      "datasetTitle": "Lancer",
+      "datasetCategory": "Footwear",
+      "datasetSubcategory": "sports-shoes",
+      "mainImage": "/products-dataset/men-s-running-shoes-3b878f/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/men-s-running-shoes-3b878f/image-2.jpg",
+        "/products-dataset/men-s-running-shoes-3b878f/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/men-s-running-shoes-3b878f/image-1.jpg",
+        "/dataset-image-preview-assets/men-s-running-shoes-3b878f/image-2.jpg",
+        "/dataset-image-preview-assets/men-s-running-shoes-3b878f/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b878e",
+      "productName": "Women's Denim Jeans",
+      "category": "Fashion",
+      "datasetTitle": "Levis",
+      "datasetCategory": "UnisexClothing",
+      "datasetSubcategory": "jeans",
+      "mainImage": "/products-dataset/women-s-denim-jeans-3b878e/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/women-s-denim-jeans-3b878e/image-2.jpg",
+        "/products-dataset/women-s-denim-jeans-3b878e/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/women-s-denim-jeans-3b878e/image-1.jpg",
+        "/dataset-image-preview-assets/women-s-denim-jeans-3b878e/image-2.jpg",
+        "/dataset-image-preview-assets/women-s-denim-jeans-3b878e/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b878d",
+      "productName": "Men's Casual Shirt",
+      "category": "Fashion",
+      "datasetTitle": "SPYKAR",
+      "datasetCategory": "UnisexClothing",
+      "datasetSubcategory": "shirts",
+      "mainImage": "/products-dataset/men-s-casual-shirt-3b878d/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/men-s-casual-shirt-3b878d/image-2.jpg",
+        "/products-dataset/men-s-casual-shirt-3b878d/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/men-s-casual-shirt-3b878d/image-1.jpg",
+        "/dataset-image-preview-assets/men-s-casual-shirt-3b878d/image-2.jpg",
+        "/dataset-image-preview-assets/men-s-casual-shirt-3b878d/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b8791",
+      "productName": "Men's Hoodie",
+      "category": "Fashion",
+      "datasetTitle": "V Dot",
+      "datasetCategory": "UnisexClothing",
+      "datasetSubcategory": "sweatshirts",
+      "mainImage": "/products-dataset/men-s-hoodie-3b8791/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/men-s-hoodie-3b8791/image-2.jpg",
+        "/products-dataset/men-s-hoodie-3b8791/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/men-s-hoodie-3b8791/image-1.jpg",
+        "/dataset-image-preview-assets/men-s-hoodie-3b8791/image-2.jpg",
+        "/dataset-image-preview-assets/men-s-hoodie-3b8791/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b8792",
+      "productName": "Women's Sneakers",
+      "category": "Fashion",
+      "datasetTitle": "Bata",
+      "datasetCategory": "Footwear",
+      "datasetSubcategory": "casual-shoes",
+      "mainImage": "/products-dataset/women-s-sneakers-3b8792/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/women-s-sneakers-3b8792/image-2.jpg",
+        "/products-dataset/women-s-sneakers-3b8792/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/women-s-sneakers-3b8792/image-1.jpg",
+        "/dataset-image-preview-assets/women-s-sneakers-3b8792/image-2.jpg",
+        "/dataset-image-preview-assets/women-s-sneakers-3b8792/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b8793",
+      "productName": "Formal Trousers",
+      "category": "Fashion",
+      "datasetTitle": "Pantaloons Junior",
+      "datasetCategory": "UnisexClothing",
+      "datasetSubcategory": "trousers",
+      "mainImage": "/products-dataset/formal-trousers-3b8793/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/formal-trousers-3b8793/image-2.jpg",
+        "/products-dataset/formal-trousers-3b8793/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/formal-trousers-3b8793/image-1.jpg",
+        "/dataset-image-preview-assets/formal-trousers-3b8793/image-2.jpg",
+        "/dataset-image-preview-assets/formal-trousers-3b8793/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b8794",
+      "productName": "Women's Winter Jacket",
+      "category": "Fashion",
+      "datasetTitle": "mothercare",
+      "datasetCategory": "UnisexClothing",
+      "datasetSubcategory": "jackets",
+      "mainImage": "/products-dataset/women-s-winter-jacket-3b8794/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/women-s-winter-jacket-3b8794/image-2.jpg",
+        "/products-dataset/women-s-winter-jacket-3b8794/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/women-s-winter-jacket-3b8794/image-1.jpg",
+        "/dataset-image-preview-assets/women-s-winter-jacket-3b8794/image-2.jpg",
+        "/dataset-image-preview-assets/women-s-winter-jacket-3b8794/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b8795",
+      "productName": "Cotton Kurta",
+      "category": "Fashion",
+      "datasetTitle": "SHOWOFF",
+      "datasetCategory": "WomensClothing",
+      "datasetSubcategory": "kurtas",
+      "mainImage": "/products-dataset/cotton-kurta-3b8795/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/cotton-kurta-3b8795/image-2.jpg",
+        "/products-dataset/cotton-kurta-3b8795/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/cotton-kurta-3b8795/image-1.jpg",
+        "/dataset-image-preview-assets/cotton-kurta-3b8795/image-2.jpg",
+        "/dataset-image-preview-assets/cotton-kurta-3b8795/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b8798",
+      "productName": "Cotton Bedsheet",
+      "category": "Home & Kitchen",
+      "datasetTitle": "My Room",
+      "datasetCategory": "HomeAndLiving",
+      "datasetSubcategory": "bedsheets",
+      "mainImage": "/products-dataset/cotton-bedsheet-3b8798/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/cotton-bedsheet-3b8798/image-2.jpg",
+        "/products-dataset/cotton-bedsheet-3b8798/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/cotton-bedsheet-3b8798/image-1.jpg",
+        "/dataset-image-preview-assets/cotton-bedsheet-3b8798/image-2.jpg",
+        "/dataset-image-preview-assets/cotton-bedsheet-3b8798/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b879c",
+      "productName": "Ceramic Dinner Set",
+      "category": "Home & Kitchen",
+      "datasetTitle": "MIAH Decor",
+      "datasetCategory": "HomeAndLiving",
+      "datasetSubcategory": "dinnerware",
+      "mainImage": "/products-dataset/ceramic-dinner-set-3b879c/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/ceramic-dinner-set-3b879c/image-2.jpg",
+        "/products-dataset/ceramic-dinner-set-3b879c/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/ceramic-dinner-set-3b879c/image-1.jpg",
+        "/dataset-image-preview-assets/ceramic-dinner-set-3b879c/image-2.jpg",
+        "/dataset-image-preview-assets/ceramic-dinner-set-3b879c/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b87a0",
+      "productName": "Yoga Mat",
+      "category": "Sports & Fitness",
+      "datasetTitle": "BOLDFIT",
+      "datasetCategory": "SportsAndFitness",
+      "datasetSubcategory": "yoga-mats",
+      "mainImage": "/products-dataset/yoga-mat-3b87a0/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/yoga-mat-3b87a0/image-2.jpg",
+        "/products-dataset/yoga-mat-3b87a0/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/yoga-mat-3b87a0/image-1.jpg",
+        "/dataset-image-preview-assets/yoga-mat-3b87a0/image-2.jpg",
+        "/dataset-image-preview-assets/yoga-mat-3b87a0/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b87ad",
+      "productName": "Shampoo",
+      "category": "Beauty",
+      "datasetTitle": "Lotus Botanicals",
+      "datasetCategory": "BeautyAndPersonalCare",
+      "datasetSubcategory": "shampoo-and-conditioner",
+      "mainImage": "/products-dataset/shampoo-3b87ad/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/shampoo-3b87ad/image-2.jpg",
+        "/products-dataset/shampoo-3b87ad/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/shampoo-3b87ad/image-1.jpg",
+        "/dataset-image-preview-assets/shampoo-3b87ad/image-2.jpg",
+        "/dataset-image-preview-assets/shampoo-3b87ad/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b87ab",
+      "productName": "Gentle Face Cleanser",
+      "category": "Beauty",
+      "datasetTitle": "natural vibes",
+      "datasetCategory": "BeautyAndPersonalCare",
+      "datasetSubcategory": "face-wash-and-cleanser",
+      "mainImage": "/products-dataset/gentle-face-cleanser-3b87ab/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/gentle-face-cleanser-3b87ab/image-2.jpg",
+        "/products-dataset/gentle-face-cleanser-3b87ab/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/gentle-face-cleanser-3b87ab/image-1.jpg",
+        "/dataset-image-preview-assets/gentle-face-cleanser-3b87ab/image-2.jpg",
+        "/dataset-image-preview-assets/gentle-face-cleanser-3b87ab/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b87ac",
+      "productName": "Matte Lipstick",
+      "category": "Beauty",
+      "datasetTitle": "SUGAR",
+      "datasetCategory": "BeautyAndPersonalCare",
+      "datasetSubcategory": "lipstick",
+      "mainImage": "/products-dataset/matte-lipstick-3b87ac/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/matte-lipstick-3b87ac/image-2.jpg",
+        "/products-dataset/matte-lipstick-3b87ac/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/matte-lipstick-3b87ac/image-1.jpg",
+        "/dataset-image-preview-assets/matte-lipstick-3b87ac/image-2.jpg",
+        "/dataset-image-preview-assets/matte-lipstick-3b87ac/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b87aa",
+      "productName": "Daily Face Moisturizer",
+      "category": "Beauty",
+      "datasetTitle": "Mamaearth",
+      "datasetCategory": "BeautyAndPersonalCare",
+      "datasetSubcategory": "face-moisturisers",
+      "mainImage": "/products-dataset/daily-face-moisturizer-3b87aa/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/daily-face-moisturizer-3b87aa/image-2.jpg",
+        "/products-dataset/daily-face-moisturizer-3b87aa/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/daily-face-moisturizer-3b87aa/image-1.jpg",
+        "/dataset-image-preview-assets/daily-face-moisturizer-3b87aa/image-2.jpg",
+        "/dataset-image-preview-assets/daily-face-moisturizer-3b87aa/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b87b3",
+      "productName": "Perfume for Men",
+      "category": "Beauty",
+      "datasetTitle": "BEARDO",
+      "datasetCategory": "BeautyAndPersonalCare",
+      "datasetSubcategory": "perfume-and-body-mist",
+      "mainImage": "/products-dataset/perfume-for-men-3b87b3/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/perfume-for-men-3b87b3/image-2.jpg",
+        "/products-dataset/perfume-for-men-3b87b3/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/perfume-for-men-3b87b3/image-1.jpg",
+        "/dataset-image-preview-assets/perfume-for-men-3b87b3/image-2.jpg",
+        "/dataset-image-preview-assets/perfume-for-men-3b87b3/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b87b7",
+      "productName": "Women's Handbag",
+      "category": "Accessories",
+      "datasetTitle": "Baggit",
+      "datasetCategory": "BagsAndWallets",
+      "datasetSubcategory": "handbags",
+      "mainImage": "/products-dataset/women-s-handbag-3b87b7/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/women-s-handbag-3b87b7/image-2.jpg",
+        "/products-dataset/women-s-handbag-3b87b7/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/women-s-handbag-3b87b7/image-1.jpg",
+        "/dataset-image-preview-assets/women-s-handbag-3b87b7/image-2.jpg",
+        "/dataset-image-preview-assets/women-s-handbag-3b87b7/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b87b8",
+      "productName": "Adjustable Leather Belt",
+      "category": "Accessories",
+      "datasetTitle": "Kastner",
+      "datasetCategory": "BagsAndWallets",
+      "datasetSubcategory": "belts",
+      "mainImage": "/products-dataset/adjustable-leather-belt-3b87b8/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/adjustable-leather-belt-3b87b8/image-2.jpg",
+        "/products-dataset/adjustable-leather-belt-3b87b8/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/adjustable-leather-belt-3b87b8/image-1.jpg",
+        "/dataset-image-preview-assets/adjustable-leather-belt-3b87b8/image-2.jpg",
+        "/dataset-image-preview-assets/adjustable-leather-belt-3b87b8/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b87b5",
+      "productName": "Leather Wallet",
+      "category": "Accessories",
+      "datasetTitle": "Tommy Hilfiger",
+      "datasetCategory": "BagsAndWallets",
+      "datasetSubcategory": "wallets",
+      "mainImage": "/products-dataset/leather-wallet-3b87b5/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/leather-wallet-3b87b5/image-2.jpg",
+        "/products-dataset/leather-wallet-3b87b5/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/leather-wallet-3b87b5/image-1.jpg",
+        "/dataset-image-preview-assets/leather-wallet-3b87b5/image-2.jpg",
+        "/dataset-image-preview-assets/leather-wallet-3b87b5/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b87b9",
+      "productName": "Baseball Cap",
+      "category": "Accessories",
+      "datasetTitle": "Vastraa Fusion",
+      "datasetCategory": "FashionAccessories",
+      "datasetSubcategory": "caps",
+      "mainImage": "/products-dataset/baseball-cap-3b87b9/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/baseball-cap-3b87b9/image-2.jpg",
+        "/products-dataset/baseball-cap-3b87b9/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/baseball-cap-3b87b9/image-1.jpg",
+        "/dataset-image-preview-assets/baseball-cap-3b87b9/image-2.jpg",
+        "/dataset-image-preview-assets/baseball-cap-3b87b9/image-3.jpg"
+      ]
+    },
+    {
+      "mongoId": "6af5532526301362833b87bb",
+      "productName": "Travel Trolley Bag",
+      "category": "Accessories",
+      "datasetTitle": "Nasher Miles",
+      "datasetCategory": "BagsAndWallets",
+      "datasetSubcategory": "trolley-bag",
+      "mainImage": "/products-dataset/travel-trolley-bag-3b87bb/image-1.jpg",
+      "additionalImages": [
+        "/products-dataset/travel-trolley-bag-3b87bb/image-2.jpg",
+        "/products-dataset/travel-trolley-bag-3b87bb/image-3.jpg"
+      ],
+      "previewImages": [
+        "/dataset-image-preview-assets/travel-trolley-bag-3b87bb/image-1.jpg",
+        "/dataset-image-preview-assets/travel-trolley-bag-3b87bb/image-2.jpg",
+        "/dataset-image-preview-assets/travel-trolley-bag-3b87bb/image-3.jpg"
+      ]
+    }
+  ],
+  "skipped": [
+    {
+      "mongoId": "6adb051eff3ec77665431e5f",
+      "productName": "Smart Watch",
+      "category": "Electronics",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6adb051eff3ec77665431e62",
+      "productName": "Mechanical Keyboard",
+      "category": "Electronics",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6adb075250c0977a188dcef1",
+      "productName": "Gaming Mouse",
+      "category": "Electronics",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af15c73cbb412e0086153ab",
+      "productName": "laptop",
+      "category": "Electronics",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af1b0b5b490f78bcb141108",
+      "productName": "smart watch",
+      "category": "Electronics",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b8784",
+      "productName": "Smartphone 128GB",
+      "category": "Electronics",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b8785",
+      "productName": "Wireless Mouse",
+      "category": "Electronics",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b8787",
+      "productName": "Portable Bluetooth Speaker",
+      "category": "Electronics",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b8789",
+      "productName": "Full HD Monitor",
+      "category": "Electronics",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b8786",
+      "productName": "Mechanical Gaming Keyboard",
+      "category": "Electronics",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b8788",
+      "productName": "USB-C Fast Charger",
+      "category": "Electronics",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b878a",
+      "productName": "Wireless Earbuds",
+      "category": "Electronics",
+      "reason": "No unused dataset product found. Required: Electronics / headphones"
+    },
+    {
+      "mongoId": "6af5532526301362833b8796",
+      "productName": "Non-Stick Frying Pan",
+      "category": "Home & Kitchen",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b8797",
+      "productName": "Electric Kettle",
+      "category": "Home & Kitchen",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b8799",
+      "productName": "Table Lamp",
+      "category": "Home & Kitchen",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b879b",
+      "productName": "Mixer Grinder",
+      "category": "Home & Kitchen",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b879a",
+      "productName": "Stainless Steel Water Bottle",
+      "category": "Home & Kitchen",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b879f",
+      "productName": "Vacuum Flask",
+      "category": "Home & Kitchen",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b879d",
+      "productName": "Storage Organizer Box",
+      "category": "Home & Kitchen",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87a2",
+      "productName": "Cricket Bat",
+      "category": "Sports & Fitness",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87a1",
+      "productName": "Adjustable Dumbbells",
+      "category": "Sports & Fitness",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b879e",
+      "productName": "Digital Kitchen Weighing Scale",
+      "category": "Home & Kitchen",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87a3",
+      "productName": "Football Size 5",
+      "category": "Sports & Fitness",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87a6",
+      "productName": "Sports Gym Bag",
+      "category": "Sports & Fitness",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87a8",
+      "productName": "Badminton Racket",
+      "category": "Sports & Fitness",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87a5",
+      "productName": "Resistance Bands Set",
+      "category": "Sports & Fitness",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87a9",
+      "productName": "Stainless Steel Shaker",
+      "category": "Sports & Fitness",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87a7",
+      "productName": "Cycling Helmet",
+      "category": "Sports & Fitness",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87a4",
+      "productName": "Skipping Rope",
+      "category": "Sports & Fitness",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87b0",
+      "productName": "Makeup Brush Set",
+      "category": "Beauty",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87b2",
+      "productName": "Hair Dryer",
+      "category": "Beauty",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87af",
+      "productName": "Sunscreen Lotion",
+      "category": "Beauty",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87ae",
+      "productName": "Body Lotion",
+      "category": "Beauty",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87b1",
+      "productName": "Nail Polish Set",
+      "category": "Beauty",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87b4",
+      "productName": "Analog Wrist Watch",
+      "category": "Accessories",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87ba",
+      "productName": "Minimalist Pendant Necklace",
+      "category": "Accessories",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87b6",
+      "productName": "Polarized Sunglasses",
+      "category": "Accessories",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87bd",
+      "productName": "Atomic Habits",
+      "category": "Books",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87bc",
+      "productName": "Card Holder",
+      "category": "Accessories",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87be",
+      "productName": "The Psychology of Money",
+      "category": "Books",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87c1",
+      "productName": "Deep Work",
+      "category": "Books",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87bf",
+      "productName": "Rich Dad Poor Dad",
+      "category": "Books",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87c0",
+      "productName": "The Alchemist",
+      "category": "Books",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87c4",
+      "productName": "The Power of Now",
+      "category": "Books",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87c6",
+      "productName": "The Lean Startup",
+      "category": "Books",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87c2",
+      "productName": "Ikigai",
+      "category": "Books",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87c3",
+      "productName": "Think and Grow Rich",
+      "category": "Books",
+      "reason": "No strict product-type rule exists for this product."
+    },
+    {
+      "mongoId": "6af5532526301362833b87c5",
+      "productName": "Start With Why",
+      "category": "Books",
+      "reason": "No strict product-type rule exists for this product."
+    }
+  ]
+}

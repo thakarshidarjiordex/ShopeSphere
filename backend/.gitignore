@@ -1,0 +1,6 @@
+# Ignore all environment files
+.env
+.env*
+
+# Allow a safe example template
+!.env.example

@@ -1,0 +1,120 @@
+.product-reviews {
+  margin-top: 40px;
+  padding: 25px;
+  background: #fff;
+  border-radius: 10px;
+}
+
+.product-reviews h2 {
+  margin-bottom: 20px;
+}
+
+.rating-summary {
+  padding: 20px;
+  background: #f8f8f8;
+  border-radius: 8px;
+  margin-bottom: 25px;
+}
+
+.rating-summary h3 {
+  font-size: 30px;
+  margin: 0;
+}
+
+.stars {
+  color: #f5a623;
+  font-size: 22px;
+  letter-spacing: 3px;
+}
+
+.rating-input {
+  display: flex;
+  gap: 5px;
+  margin: 10px 0 20px;
+}
+
+.rating-input button {
+  background: none;
+  border: none;
+  font-size: 30px;
+  color: #ccc;
+  cursor: pointer;
+  padding: 0;
+}
+
+.rating-input button.selected {
+  color: #f5a623;
+}
+
+.review-form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-bottom: 35px;
+}
+
+.review-form textarea {
+  width: 100%;
+  min-height: 100px;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  resize: vertical;
+  font: inherit;
+}
+
+.review-form button,
+.review-actions button {
+  padding: 9px 16px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.review-form button[type="submit"] {
+  background: #2563eb;
+  color: white;
+}
+
+.review-form button:disabled,
+.review-actions button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.review-card {
+  padding: 20px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.review-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.review-header h4 {
+  margin: 0;
+}
+
+.review-date {
+  color: #777;
+  font-size: 13px;
+}
+
+.review-actions {
+  display: flex;
+  gap: 10px;
+}
+
+.review-actions button {
+  background: #eee;
+}
+
+.review-success {
+  color: green;
+}
+
+.review-error {
+  color: red;
+}
